@@ -1,5 +1,5 @@
-# tpi_programacion_1_tupad
-Trabajo Práctico Integrador de Programación 1 | TUPaD - UTN
+# Trabajo Práctico Integrador - Programación 1 | TUPaD - UTN
 
-Grupo: 114
-Alumnos: Nombre APELLIDO
+## Integrantes del Grupo N°114
+* *Paula Ailén González - Comisión 7*
+* *Lautaro Gorge - Comisión 9*
