@@ -35,4 +35,22 @@ Este proyecto es una *aplicación de consola* desarrollada en *Python* como Trab
 `persistencia.py`: Se encarga de la lectura y escritura del archivo CSV.  
 `funciones_paises.py`: Contiene la lógica de las opciones del menú (agregar, actualizar, buscar, filtrar y ordenar).  
 `estadisticas.py`: Encargado del procesamiento estadístico.  
-`validaciones.py`: Busca índices y verífica que no haya países duplicados.  
+`validaciones.py`: Busca índices y verífica que no haya países duplicados.
+
+## Instrucciones de ejecución
+
+* Clonar el repositorio.
+* Asegurar que la estructura clonada sea la siguiente:
+
+tpi_programacion_1_tupad/  
+│  
+├── datos/  
+│   └── datos_paises.csv  
+│  
+├── estadisticas.py  
+├── funciones_principales.py  
+├── main.py  
+├── persistencia.py  
+└── validaciones.py  
+
+* Ejecutar main.py para iniciar la aplicación de consola.
