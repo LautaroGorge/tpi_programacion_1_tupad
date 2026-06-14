@@ -40,17 +40,13 @@ Este proyecto es una *aplicación de consola* desarrollada en *Python* como Trab
 ## Instrucciones de ejecución
 
 * Clonar el repositorio.
-* Asegurar que la estructura clonada sea la siguiente:
+* Asegurar que el repositorio clonado `tpi_programacion_1_tupad` contenga los siguientes archivos:  
 
-tpi_programacion_1_tupad/  
-│  
-├── datos/  
-│   └── datos_paises.csv  
-│  
-├── estadisticas.py  
-├── funciones_principales.py  
-├── main.py  
-├── persistencia.py  
-└── validaciones.py  
+`datos/datos_paises.csv`  
+`main.py`  
+`persistencia.py`  
+`funciones_principales.py`  
+`estadisticas.py`  
+`validaciones.py`  
 
-* Ejecutar main.py para iniciar la aplicación de consola.
+* Ejecutar `main.py` para iniciar la aplicación de consola.
