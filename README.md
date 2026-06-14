@@ -31,8 +31,8 @@ Este proyecto es una *aplicación de consola* desarrollada en *Python* como Trab
 
 * *Estructura:*
 
-* `main.py`: Punto de entrada del programa. Controla el bucle principal y el menú de opciones.
-* `funciones_principales.py`: Contiene la lógica de las opciones del menú (agregar, buscar, filtrar y ordenar).
+* `main.py`: Es el punto de entrada al programa, controla el bucle principal y el menú de opciones.
 * `persistencia.py`: Se encarga de la lectura y escritura del archivo CSV.
-* `validaciones.py`: Módulo auxiliar para el control de reglas del negocio y búsqueda de índices.
-* `estadisticas.py`: Encargado del procesamiento estadístico, cálculo de promedios y reportes de frecuencias.
+* `funciones_paises.py`: Contiene la lógica de las opciones del menú (agregar, actualizar, buscar, filtrar y ordenar).
+* `estadisticas.py`: Encargado del procesamiento estadístico.
+* `validaciones.py`: Busca índices y verífica que no haya países duplicados.
