@@ -50,3 +50,29 @@ Este proyecto es una *aplicación de consola* desarrollada en *Python* como Trab
 `validaciones.py`  
 
 * Ejecutar `main.py` para iniciar la aplicación de consola.
+
+## Ejemplos de Entradas y Salidas
+
+### Agregar un nuevo país (Opción 1 del menú)
+
+    ```text
+    Ingrese una opción: 1
+    
+    - Agregar un nuevo país -
+    
+    ¿Desea agregar un nuevo país? ('S' para confirmar):
+
+    Ingrese el nombre del país: argentina
+    ¡ERROR!: El país 'Argentina' ya se encuentra en la lista.
+    
+    Ingrese el nombre del país: uruguay
+
+    Ingrese la población (solo números): 3444000
+
+    ingrese la superficie en km² (solo números): 176215
+
+    Ingrese el nombre del continente: américa
+
+    ¡Carga exitosa!: Se ha agregado 'Uruguay' a la lista de países.
+    ¡Archivo CSV actualizado!
+    ```
