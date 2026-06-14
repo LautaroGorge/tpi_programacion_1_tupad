@@ -1,5 +1,13 @@
-# Trabajo Práctico Integrador - Programación 1 | TUPaD - UTN
+# Trabajo Práctico Integrador
 
-## Integrantes del Grupo N°114
-* *Paula Ailén González - Comisión 7*
-* *Lautaro Gorge - Comisión 9*
+## Institución
+
+* Universidad Tecnológica Nacional (UTN)
+
+## Carrera
+
+* Tecnicatura Universitaria en Programación a Distancia (TUPaD)
+
+## Cátedra
+
+* Programación 1
